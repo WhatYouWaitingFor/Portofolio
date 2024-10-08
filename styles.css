@@ -607,7 +607,6 @@ header ul li:nth-child(1) a {
   .image {
     width: 220px;
     height: 220px;
-    background-color: crimson;
     border-radius: 20%;
     
   }
