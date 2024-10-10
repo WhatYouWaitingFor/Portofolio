@@ -627,10 +627,10 @@ header ul li:nth-child(1) a {
 
   .contact .grp i {
     margin-right: 0 !important;
-    font-size: 60%;
+    font-size: 10px;
   }
 
   .contact .grp span {
-    font-size: 70%;
+    font-size: 10px;
   }
 }
