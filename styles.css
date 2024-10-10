@@ -582,7 +582,7 @@ header ul li:nth-child(1) a {
 
   .contact .grp i,
   .contact .grp span {
-    font-size: 10px;
+    font-size: 22px;
   }
 
   .footer p {
@@ -623,14 +623,5 @@ header ul li:nth-child(1) a {
 
   .image img {
     height: 220px;
-  }
-
-  .contact .grp i {
-    margin-right: 0 !important;
-    font-size: 10px;
-  }
-
-  .contact .grp span {
-    font-size: 10px;
   }
 }
